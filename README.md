@@ -5,4 +5,4 @@ This Repository contains my solutions to select projects from [Codecademy's Data
 
 
 ### Hello World
-[Block Letters](../python_practise_projects/block_letters.py)         -  Ascii Art
+[Block Letters](https://github.com/annethye/python_practise_projects/blob/main/block_letters.py)         -  Ascii Art
