@@ -1,7 +1,6 @@
 # Data Science Practise Projects
 This repository contains my solutions to the practise projects provided in the data science track on codecademy.
 
-[TOC]
 
 ## Data Science Foundations I
 ### Python Fundamentals for Data Science
