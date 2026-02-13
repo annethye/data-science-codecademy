@@ -24,10 +24,12 @@ This repository contains my solutions to the practise projects provided in the d
 > Using lists to store, sort, slice, and analyse medical insurance cost data for multiple patients.
 
 #### Python Loops
-[Python Loops: Medical Insurance Estimates vs. Costs Project](medical_insurance_estimates_vs_cost.py)
+#### [Python Loops: Medical Insurance Estimates vs. Costs Project](medical_insurance_estimates_vs_costs.py)
+> 
 
 #### Frida Kahlo Cumulative Project
-[Frida Kahlo Retrospective Project](frida_kahlo.py)
+#### [Frida Kahlo Retrospective Project](frida_kahlo.py)
+> 
 
 #### Python Strings
 [Python Strings: Medical Insurance Project](medical_insurance_strings.py)
