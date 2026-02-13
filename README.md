@@ -9,7 +9,8 @@ This repository contains my solutions to the practise projects provided in the d
 > Exploring how each factor in a linear formula based on age, sex, BMI, number of children, and smoking status affects the insurance cost of a patient.
 
 #### Python Functions
-[Python Functions: Medical Insurance Project](medical_insurance_functions.py)
+#### [Python Functions: Medical Insurance Project](medical_insurance_functions.py)
+> Using a function to calculate medical insurance costs from age, sex, BMI, number of children, and smoking status.
 
 #### Python Control Flow
 #### [Python Control Flow: Medical Insurance Project](medical_insurance_control_flow.py)
