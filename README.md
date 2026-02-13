@@ -2,11 +2,15 @@
 This repository contains my solutions to the practise projects provided in the data science track on codecademy.
 
 
-## Data Science Foundations I
+## Data Science Foundations I: 
 ### Python Fundamentals for Data Science
 #### Python Syntax and Variable Types
+#### [Python Syntax: Medical Insurance Project](medical_insurance_syntax.py)
+> Exploring how each factor in a linear formula based on age, sex, BMI, number of children, and smoking status affects the insurance cost of a patient.
+
 #### Python Functions
 [Python Functions: Medical Insurance Project](medical_insurance_functions.py)
+
 #### Python Control Flow
 [Python Control Flow: Medical Insurance Project](medical_insurance_control_flow.py)
 
