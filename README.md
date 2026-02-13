@@ -12,7 +12,8 @@ This repository contains my solutions to the practise projects provided in the d
 [Python Functions: Medical Insurance Project](medical_insurance_functions.py)
 
 #### Python Control Flow
-[Python Control Flow: Medical Insurance Project](medical_insurance_control_flow.py)
+#### [Python Control Flow: Medical Insurance Project](medical_insurance_control_flow.py)
+> Implementing a medical insurance cost estimation function and conditional control flow to generate cost-reduction advice based on BMI and smoking status.
 
 #### Python Lists
 [Python Lists: Medical Insurance Estimation Project](medical_insurance_estimation.py)
