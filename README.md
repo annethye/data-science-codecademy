@@ -1,6 +1,5 @@
 # Data Science Practise Projects
-This repository contains my solutions to the practise projects provided in the data science track on codecademy.
-
+This repository contains my solutions to the practise projects provided in the [Data Science Path](https://www.codecademy.com/learn/paths/data-science) on codecademy.
 
 ## Data Science Foundations I: 
 ### Python Fundamentals for Data Science
@@ -32,18 +31,27 @@ This repository contains my solutions to the practise projects provided in the d
 > Using lists and the zip function to organise paintings, dates, and audio tour IDs into a structured master list for a museum exhibition.
 
 #### Python Strings
-[Python Strings: Medical Insurance Project](medical_insurance_strings.py)
+#### [Python Strings: Medical Insurance Project](medical_insurance_strings.py)
+> Cleaning and parsing messy patient records stored as a single string into structured lists, then computing basic summary statistics using loops and string methods.
+
+- coded correspondence
 
 #### Python Dictionaries
 [Hurricane Analysis](hurricane_analysis.py)
 
-[Python Dictionaries: Medical Insurance Project](.py)
+
+#### [Python Dictionaries: Medical Insurance Project](.py)
+> 
+
+#### Python Files
+
+- hacking
 
 #### Reggie's Linear Regression Cumulative Project
+#### [Reggie's Linear Regression](.py)
+> 
 
-[Reggie's Linear Regression](.py)
 
-All other projects connected to this path can be seen in the --- repository
 
 ## Data Science Foundations II
 ## Machine Learning I
