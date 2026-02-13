@@ -25,11 +25,11 @@ This repository contains my solutions to the practise projects provided in the d
 
 #### Python Loops
 #### [Python Loops: Medical Insurance Estimates vs. Costs Project](medical_insurance_estimates_vs_costs.py)
-> 
+> Using loops and list comprehensions to analyse and compare estimated versus actual medical insurance costs across multiple individuals.
 
 #### Frida Kahlo Cumulative Project
 #### [Frida Kahlo Retrospective Project](frida_kahlo.py)
-> 
+> Using lists and the zip function to organise paintings, dates, and audio tour IDs into a structured master list for a museum exhibition.
 
 #### Python Strings
 [Python Strings: Medical Insurance Project](medical_insurance_strings.py)
