@@ -17,9 +17,11 @@ This repository contains my solutions to the practise projects provided in the d
 > Implementing a medical insurance cost estimation function and conditional control flow to generate cost-reduction advice based on BMI and smoking status.
 
 #### Python Lists
-[Python Lists: Medical Insurance Estimation Project](medical_insurance_estimation.py)
+#### [Python Lists: Medical Insurance Estimation Project](medical_insurance_estimation.py)
+> Using lists and a cost estimation function to compare estimated and actual medical insurance costs for multiple individuals.
 
-[Working with Python Lists: Medical Insurance Costs Project](medical_insurance_cost.py)
+#### [Working with Python Lists: Medical Insurance Costs Project](medical_insurance_cost.py)
+> Using lists to store, sort, slice, and analyse medical insurance cost data for multiple patients.
 
 #### Python Loops
 [Python Loops: Medical Insurance Estimates vs. Costs Project](medical_insurance_estimates_vs_cost.py)
