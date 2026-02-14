@@ -40,8 +40,8 @@ This repository contains my solutions to the practise projects provided in the [
 [Hurricane Analysis](hurricane_analysis.py)
 
 
-#### [Python Dictionaries: Medical Insurance Project](.py)
-> 
+#### [Python Dictionaries: Medical Insurance Project](medical_insurance_dictionaries.py)
+> Organising patient medical data into nested dictionaries, allowing insurance costs and personal attributes to be added, updated, queried, and summarised, while treating the data structure as a simple in-memory medical records database.
 
 #### Python Files
 #### [Hacking the Fender](https://github.com/annethye/python_practise_projects/blob/main/hacking_the_fender.py)
