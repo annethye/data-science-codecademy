@@ -49,9 +49,7 @@ This repository contains my solutions to the practise projects provided in the [
 
 #### Reggie's Linear Regression Cumulative Project
 #### [Reggie's Linear Regression](reggies_linear_regression.ipynb)
-> 
-
-
+> Implementing linear regression via brute-force search on a dataset of bouncy ball widths and bounce heights, computing total absolute error to select the optimal slope and intercept and generate predictions from the resulting line of best fit.
 
 ## Data Science Foundations II
 ## Machine Learning I
