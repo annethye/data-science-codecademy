@@ -44,11 +44,11 @@ This repository contains my solutions to the practise projects provided in the [
 > 
 
 #### Python Files
-
-- hacking
+#### [Hacking the Fender](https://github.com/annethye/python_practise_projects/blob/main/hacking_the_fender.py)
+>
 
 #### Reggie's Linear Regression Cumulative Project
-#### [Reggie's Linear Regression](.py)
+#### [Reggie's Linear Regression](reggies_linear_regression.ipynb)
 > 
 
 
